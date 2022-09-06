@@ -1,6 +1,6 @@
 # Temporal-Model-HAR
 
-### This is the code for [Deep Temporal Conv-LSTM for Activity Recognition. Neural Processing Letter, 2022](http://dx.doi.org/10.1007/s11063-022-10799-5)
+This is the code for [Deep Temporal Conv-LSTM for Activity Recognition. Neural Processing Letter, 2022](http://dx.doi.org/10.1007/s11063-022-10799-5)
 
 ![](https://github.com/mohalim/Temporal-Model-HAR/blob/main/Fig1_Proposed%20Model.png)
 
