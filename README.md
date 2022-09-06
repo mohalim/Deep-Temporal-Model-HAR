@@ -7,12 +7,12 @@ This is the code for [Deep Temporal Conv-LSTM for Activity Recognition. Neural P
 ## Cited
 If you have any questions about details, let me know. If you find it helpfutl in your work, feel free to quote
 ```
-@article{han2022human,
-  title={Human activity recognition using wearable sensors by heterogeneous convolutional neural networks},
-  author={Han, Chaolei and Zhang, Lei and Tang, Yin and Huang, Wenbo and Min, Fuhong and He, Jun},
-  journal={Expert Systems with Applications},
-  pages={116764},
+@article{mohd2022deep,
+  title={Deep Temporal Conv-LSTM for Activity Recognition},
+  author={Mohd Noor, Mohd Halim and Tan, Sen Yan and Ab Wahab, Mohd Nadhir},
+  journal={Neural Processing Letters},
+  pages={1--23},
   year={2022},
-  publisher={Elsevier}
+  publisher={Springer}
 }
 ```
