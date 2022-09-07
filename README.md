@@ -4,8 +4,8 @@ This is the code for [Deep Temporal Conv-LSTM for Activity Recognition. Neural P
 
 ![](https://github.com/mohalim/Temporal-Model-HAR/blob/main/Fig1_Proposed%20Model.png)
 
-## Cited
-If you have any questions about details, let me know. If you find it helpfutl in your work, feel free to quote
+## Citation
+If you have any questions about the details, let me know. If you find it helpful in your work, feel free to cite
 ```
 @article{mohd2022deep,
   title={Deep Temporal Conv-LSTM for Activity Recognition},
