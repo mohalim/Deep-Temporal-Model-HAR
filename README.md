@@ -1,4 +1,4 @@
-# Temporal-Model-HAR
+# Deep Temporal Model for Human Activity Recognition
 
 This is the code for [Deep Temporal Conv-LSTM for Activity Recognition. Neural Processing Letter, 2022](http://dx.doi.org/10.1007/s11063-022-10799-5)
 
